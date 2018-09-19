@@ -6,7 +6,7 @@ import settings
 
 
 def main():
-    index = load_resource(settings.INDEX_MEDIA)
+    index = load_resource(settings.INDEX_MEDIA + "index_media.json")
     speech = index["ID191002001"]
     make_manifest(speech)
     make_annotations(speech)
@@ -23,11 +23,13 @@ def make_manifest(speech):
     add_metadata(manifest, "rednerID", speech)   
     canvas = manifest["items"][0]
     canvas["id"] = get_uri(identifier, settings.CANVAS_URI_TEMPLATE)
+    canvas["duration"] = speech["duration"]
     annopage = canvas["items"][0]
     annopage["id"] = get_uri(identifier, settings.ANNOPAGE_URI_TEMPLATE)
     content_anno = annopage["items"][0]
     content_anno["id"] = get_uri(identifier, settings.ANNO_URI_TEMPLATE)
     content_anno["body"]["id"] = settings.VIDEO_URI_TEMPLATE.format(speech["mediaID"])
+    content_anno["body"]["duration"] = speech["duration"]
     content_anno["target"] = canvas["id"]
     canvas["annotations"][0]["id"] = get_uri(identifier, settings.TRANSCRIPT_ID_TEMPLATE)
 
@@ -48,7 +50,16 @@ def add_metadata(manifest, key, speech):
 
 
 def make_annotations(speech):
-    pass
+    path = "{0}{1}/{2}/{1}{2}-Rede-{3}.vtt".format(
+        settings.INDEX_MEDIA,
+        speech["wahlperiode"],
+        speech["sitzungsnummer"].zfill(3),
+        speech["id"])
+    print(path)
+    vtt_lines = load_lines(path)
+    for line in vtt_lines:
+        print(line)
+
     # vtt = WebVTTFile.open("pets-en.vtt")
     # canvas = "http://example.org/canvas/1"
     # annos = []
@@ -67,6 +78,11 @@ def load_resource(file_path):
     with open(file_path) as json_data:
         return json.load(json_data, object_pairs_hook=OrderedDict)
 
+
+def load_lines(file_path):
+    with open(file_path) as line_source:
+        src = line_source.readlines()
+        return [x.strip() for x in src] 
 
 def save_resource(resource, file_path):
     with open(file_path, 'w') as outfile:

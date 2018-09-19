@@ -1,6 +1,6 @@
 from collections import OrderedDict
 
-INDEX_MEDIA = "../../bbctextav-de/output/index_media.json"
+INDEX_MEDIA = "../../bbctextav-de/output/"
 DOMAIN = "https://tomcrane.github.io/bbctextav/"
 MANIFEST_ID_TEMPLATE = "iiif/{0}.json"
 TRANSCRIPT_ID_TEMPLATE = "iiif/{0}-transcript.json"
@@ -28,6 +28,7 @@ MANIFEST = OrderedDict({
             "type": "Canvas",
             "width": 1920,
             "height": 1080,
+            "duration": 0,
             "items": [
                 {
                     "id": None,
@@ -42,7 +43,8 @@ MANIFEST = OrderedDict({
                                 "type": "Video",
                                 "format": "video/mp4",
                                 "width": 1920,
-                                "height": 1080
+                                "height": 1080,
+                                "duration": 0
                             },
                             "target": None
                         }
