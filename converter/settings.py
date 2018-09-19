@@ -1,7 +1,7 @@
 from collections import OrderedDict
 
 INDEX_MEDIA = "../../bbctextav-de/output/index_media.json"
-DOMAIN = "http://localhost:8000/"
+DOMAIN = "https://tomcrane.github.io/bbctextav/"
 MANIFEST_ID_TEMPLATE = "iiif/{0}.json"
 TRANSCRIPT_ID_TEMPLATE = "iiif/{0}-transcript.json"
 CANVAS_URI_TEMPLATE = "iiif/{0}/canvas"
