@@ -1,0 +1,98 @@
+{
+    "type": "Manifest",
+    "items": [
+        {
+            "type": "Canvas",
+            "id": "http://localhost:8000/iiif/ID191002001/canvas",
+            "width": 1920,
+            "annotations": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "http://localhost:8000/iiif/ID191002001-transcript.json"
+                }
+            ],
+            "height": 1080,
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/iiif/ID191002001/content-anno-1",
+                            "type": "Annotation",
+                            "target": "http://localhost:8000/iiif/ID191002001/canvas",
+                            "motivation": "painting",
+                            "body": {
+                                "width": 1920,
+                                "type": "Video",
+                                "format": "video/mp4",
+                                "id": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/7164718/7164718_h264_1920_1080_5000kb_baseline_de_5000.mp4",
+                                "height": 1080
+                            }
+                        }
+                    ],
+                    "id": "http://localhost:8000/iiif/ID191002001/annopage"
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "wahlperiode"
+                ]
+            },
+            "value": {
+                "de": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "sitzungsnummer"
+                ]
+            },
+            "value": {
+                "de": [
+                    "1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "date"
+                ]
+            },
+            "value": {
+                "de": [
+                    "24.10.2017"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "rednerID"
+                ]
+            },
+            "value": {
+                "de": [
+                    "11002190"
+                ]
+            }
+        }
+    ],
+    "label": {
+        "de": [
+            "Er\u00f6ffnung der Sitzung durch den Alterspr\u00e4sidenten"
+        ]
+    },
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "http://localhost:8000/iiif/ID191002001.json"
+}
