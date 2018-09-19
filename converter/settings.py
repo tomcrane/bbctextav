@@ -10,6 +10,7 @@ ANNO_URI_TEMPLATE = "iiif/{0}/content-anno-1"
 # '.$speech['mediaID'].'  
 VIDEO_URI_TEMPLATE = "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/{0}/{0}_h264_1920_1080_5000kb_baseline_de_5000.mp4"
 TEXT_ANNOS_URI_TEMPLATE = "iiif/{0}-transcript.json"
+CAPTION_URI_TEMPLATE = "iiif/{0}"
 
 MANIFEST = OrderedDict({
     "@context": [

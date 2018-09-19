@@ -1,4 +1,5 @@
 import os
+import datetime
 import json
 from collections import OrderedDict
 from copy import deepcopy
@@ -50,24 +51,58 @@ def add_metadata(manifest, key, speech):
 
 
 def make_annotations(speech):
+    identifier = speech["id"]
     path = "{0}{1}/{2}/{1}{2}-Rede-{3}.vtt".format(
         settings.INDEX_MEDIA,
         speech["wahlperiode"],
         speech["sitzungsnummer"].zfill(3),
-        speech["id"])
+        identifier)
     print(path)
     vtt_lines = load_lines(path)
-    for line in vtt_lines:
-        print(line)
+    captions = []
+    caption = None
+    counter = 1
+    while counter < len(vtt_lines):
+        line = vtt_lines[counter]
+        if line == "":
+            if caption is not None:
+                captions.append(caption)
+            if counter < len(vtt_lines) - 4:
+                caption = {
+                    "id": get_uri("text-" + vtt_lines[counter + 1], settings.CAPTION_URI_TEMPLATE),
+                    "fragment": get_t_fragment(vtt_lines[counter + 2]),
+                    "text": vtt_lines[counter + 3]
+                }
+            counter = counter + 4
 
-    # vtt = WebVTTFile.open("pets-en.vtt")
-    # canvas = "http://example.org/canvas/1"
-    # annos = []
-    # for caption in vtt:
-    #     tgt = "%s#t=npt:%s,%s" % (canvas, caption.start, caption.end)
-    #     annos.append({"@type": "Annotation", "motivation": "painting", "body": {"value": caption.text}, "target": tgt})
-    # al = {"@type": "AnnotationList", "items": annos}
-    # print json.dumps(al, sort_keys=True, indent=4)
+    transcript = deepcopy(settings.TRANSCRIPT_PAGE)
+    transcript["id"] = get_uri(identifier, settings.TRANSCRIPT_ID_TEMPLATE)
+    for caption in captions:
+        transcript["items"].append(make_anno(caption, speech))
+
+    transcript_path = os.path.join("../iiif", identifier + "-transcript.json")
+    save_resource(transcript, transcript_path)
+
+
+def make_anno(caption, speech):
+    anno = deepcopy(settings.TRANSCRIPT_ANNO)
+    anno["id"] = caption["id"]
+    anno["body"]["value"] = caption["text"]
+    target_uri = get_uri(speech["id"], settings.CANVAS_URI_TEMPLATE)
+    anno["target"] = target_uri + caption["fragment"]
+    return anno
+
+
+def get_t_fragment(webvtt_t):
+    parts = webvtt_t.split()
+    return "#t={0},{1}".format(as_seconds(parts[0]), as_seconds(parts[2]))
+
+
+def as_seconds(smpte):
+    # 00:05:05.020
+    d = smpte.split(":")
+    seconds = float(d[0]) * 3600 + float(d[1]) * 60 + float(d[2])
+    return str(seconds)
 
 
 def lang_de(text):
@@ -84,9 +119,10 @@ def load_lines(file_path):
         src = line_source.readlines()
         return [x.strip() for x in src] 
 
+
 def save_resource(resource, file_path):
     with open(file_path, 'w') as outfile:
-        json.dump(resource, outfile, indent=4)
+        json.dump(resource, outfile, sort_keys=True, indent=4)
 
 
 if __name__ == "__main__":
