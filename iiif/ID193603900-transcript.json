@@ -1,0 +1,1986 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID193603900-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sehr geehrter Herr Pr\u00e4sident!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=1.0,10.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Damen und Herren!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=10.2,13.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das Thema \u201ebezahlbarer Wohnraum\u201c bzw."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=13.92,16.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u201ebezahlbare Mieten\u201c ist f\u00fcr alle Fraktionen dieses Hohen Hauses ein wichtiges Thema."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=16.8,21.86",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In Deutschland leben im europ\u00e4ischen Vergleich viele Menschen zur Miete."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=21.86,26.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ja,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=26.12,27.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wir alle hier wollen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=27.0,28.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass die Mieter in qualitativ guten und vor allem auch bezahlbaren Wohnungen leben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=28.92,33.98",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Aber das,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=33.98,35.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was die Linken hier als L\u00f6sung vorlegen\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=35.68,37.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "eine Erweiterung der Auskunftspflicht f\u00fcr Vermieter,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=37.28,40.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Abschaffung der R\u00fcgepflicht f\u00fcr Mieter und die Einf\u00fchrung einer sogenannten echten Mietpreisbremse\u00a0\u2013,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-12",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=40.92,46.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist allgemein und,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-13",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=46.04,47.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wenn man ins Detail geht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-14",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=47.28,48.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "auch im Konkreten ungeeignet,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-15",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=48.48,50.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "diesem Ziel,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-16",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=50.36,51.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "bezahlbaren Wohnraum zu schaffen oder zu behalten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-17",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=51.24,54.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "irgendwie n\u00e4herzukommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-18",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=54.96,56.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wie wir gesehen haben\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-19",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=56.88,57.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "das wurde vorhin auch von Frau Lay angesprochen\u00a0\u2013,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-20",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=57.36,63.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sind die Mieten in Ballungsgebieten unter der jetzt g\u00fcltigen Regelung unvermindert angestiegen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-21",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=63.6,68.1",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke-Fraktion schreibt dazu richtigerweise,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-22",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=68.1,71.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass in einigen St\u00e4dten die derzeit g\u00fcltige Mietpreisbremse den Preisanstieg sogar kurzfristig beschleunigt hat."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-23",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=71.68,77.94",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Statt nun von diesem Modell Abstand zu nehmen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-24",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=77.94,81.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "macht man munter weiter."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-25",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=81.08,83.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es m\u00fcsste doch auch den linken Ideologen so langsam d\u00e4mmern,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-26",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=83.28,86.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass man mit Mietpreissozialismus kein einziges Problem wirklich nachhaltig l\u00f6sen kann."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-27",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=86.36,92.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wer 1990 in den neuen Bundesl\u00e4ndern unterwegs war und sich da mal umgesehen hat,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-28",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=92.0,99.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "der konnte erkennen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-29",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=99.28,100.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was sozialistische Wohnungsbaupolitik anrichtet."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-30",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=100.2,104.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "So ein Desaster wollen wir nicht noch mal erleben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-31",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=104.56,110.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist Ihnen von der Linksfraktion,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-32",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=110.96000000000001,113.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "diesen Themenbereich betreffend,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-33",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=113.88,115.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "jegliche L\u00f6sungskompetenz abzusprechen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-34",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=115.8,118.75999999999999",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das zeigen Ihre Entw\u00fcrfe und Vorschl\u00e4ge."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-35",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=118.75999999999999,121.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Was mich aber besonders st\u00f6rt:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-36",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=121.56,122.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es findet sich in Ihren Entw\u00fcrfen kein lobendes Wort zur positiven sozialen Funktion,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-37",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=122.48,127.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Vermieter in diesem Land einnehmen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-38",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=127.4,129.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es findet sich kein lobendes Wort daf\u00fcr,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-39",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=129.48,132.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass Vermieter anderen Menschen ihr Eigentum zur Verf\u00fcgung stellen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-40",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=132.04,136.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "damit Mieter darin leben k\u00f6nnen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-41",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=136.04,138.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ihre Antr\u00e4ge zeigen ein ideologisch verbr\u00e4mtes Bild,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-42",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=138.76,142.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wonach der b\u00f6se,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-43",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=142.56,143.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "gierige Eigent\u00fcmer einer Immobilie das ausschlie\u00dfliche Ziel verfolgt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-44",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=143.52,147.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Mieter auszubeuten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-45",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=147.76,148.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was sich zum Beispiel in Formulierungen wie \u201eVermieter machen sich die Vorteile des angespannten Wohnungsmarktes in vielen St\u00e4dten zunutze\u201c zeigt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-46",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=148.28,156.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das klingt wie ein Ruf aus der Gruft des Klassenkampfs."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-47",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=156.24,160.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das sollte doch mittlerweile endg\u00fcltig erledigt sein."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-48",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=160.24,163.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Der Sozialismus ist tot,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-49",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=163.36,165.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "t\u00f6ter kann er nicht sein."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-50",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=165.16,167.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "H\u00f6ren Sie endlich auf,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-51",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=167.6,168.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "verschiedene Gruppen in unserer Gesellschaft gegeneinander auszuspielen!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-52",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=168.92000000000002,172.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Viele hier,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-53",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=172.84,173.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wir von der AfD,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-54",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=173.6,174.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "werden mit Sicherheit nicht daf\u00fcr sorgen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-55",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=174.52,175.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass der Sozialismus wieder aufersteht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-56",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=175.16,177.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da k\u00f6nnen Sie sicher sein."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-57",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=177.24,183.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Antr\u00e4ge und der Gesetzentwurf der Linken sind schon erstaunlich."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-58",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=183.36,187.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke-Fraktion stellt fest,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-59",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=187.36,189.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass sich ein Gro\u00dfteil der Vermieterinnen und Vermieter nicht an die gesetzlichen Regelungen der Mietpreisbremse h\u00e4lt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-60",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=189.08,196.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Tja,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-61",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=196.92000000000002,196.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "warum wohl nicht?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-62",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=196.4,198.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb nicht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-63",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=198.6,198.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "weil die Mietpreisbremse zu viel B\u00fcrokratie mit sich bringt?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-64",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=198.32,202.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb nicht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-65",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=202.68,202.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "weil die Mietpreisbremse eine zu starke Beschr\u00e4nkung der Privatautonomie bedeutet."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-66",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=202.44,207.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Was bieten die Linken an L\u00f6sungen an?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-67",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=207.32,210.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Noch deutlich mehr B\u00fcrokratie und eine noch st\u00e4rkere Beschr\u00e4nkung der Privatautonomie."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-68",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=210.84,217.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u2013\u00a0Dazu komme ich noch."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-69",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=217.68,218.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wie hat Albert Einstein einmal gesagt?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-70",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=218.28,223.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Definition des Wahnsinns ist,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-71",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=223.56,225.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "immer dasselbe zu tun und ein anderes Ergebnis zu erwarten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-72",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=225.72,229.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Beispiel f\u00fcr die Richtigkeit dieser Aussage beraten wir gerade."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-73",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=229.72,235.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Kommen wir nun zu den konkreten Vorhaben der Linken:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-74",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=235.52,237.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke will die Bundesregierung unter Ziffer\u00a01 auffordern,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-75",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=237.44,244.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "eine Verpflichtung f\u00fcr Vermieter zu begr\u00fcnden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-76",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=244.16,247.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u201edie H\u00f6he der Vormiete sowie alle f\u00fcr die Bestimmung der zul\u00e4ssigen Mieth\u00f6he ma\u00dfgeblichen Informationen\u201c den Mietern bei Vertragsabschluss offenzulegen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-77",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=247.68,256.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In Ziffer\u00a04 wird gefordert,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-78",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=256.36,258.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "eine \u201eStreichung der Ausnahmen\u201c von der Mietpreisbremse herbeizuf\u00fchren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-79",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=258.4,263.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wie \u201esie f\u00fcr umfassend modernisierte Wohnungen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-80",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=263.64,265.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Neubauwohnungen und Vormieten oberhalb der orts\u00fcblichen Vergleichsmiete gelten\u201c."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-81",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=265.88,270.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In Ziffer\u00a05 fordert man \u201edie Einf\u00fchrung der bundesweiten G\u00fcltigkeit der Mietpreisbremse\u201c."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-82",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=270.52,276.22",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist der gr\u00f6\u00dfte Bl\u00f6dsinn."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-83",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=276.22,278.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In den Ziffern\u00a06 und 7 fordert man die \u201eFestsetzung der zul\u00e4ssigen H\u00f6chstmiete bei Neuvermietung auf die orts\u00fcbliche Vergleichsmiete bzw."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-84",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=278.24,288.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die ggf."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-85",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=288.76,288.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "niedrigere Vormiete\u201c bei gleichzeitiger \u201eEntfristung der Mietpreisbremse\u201c."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-86",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=288.44,294.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Was hat das f\u00fcr Folgen?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-87",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=294.88,296.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Erst einmal:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-88",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=296.12,297.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Pflicht zur Offenlegung s\u00e4mtlicher ma\u00dfgeblicher Informationen bei Vertragsschluss ist eine v\u00f6llig \u00fcberzogene B\u00fcrokratiepflicht f\u00fcr Vermieter."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-89",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=297.88,305.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Der Vermieter muss ungefragt Ausk\u00fcnfte zur orts\u00fcblichen Vergleichsmiete einholen und hier\u00fcber Rechenschaft ablegen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-90",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=305.32,313.58",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "S\u00e4mtliche Informationen zur zul\u00e4ssigen Mieth\u00f6he anhand der Orientierungshilfe der Mietpreisspiegel bei jeder Neuvermietung einzuholen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-91",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=313.58,321.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist nur mit erheblichem organisatorischen Aufwand m\u00f6glich."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-92",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=321.16,325.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich will hier nur mal auf das Problem der Sonderausstattung verweisen;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-93",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=325.24,329.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "da ist das alles nicht so einfach."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-94",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=329.76,330.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wenn sich ein gro\u00dfer Teil der Vermieter in der Bundesrepublik schon heute nicht an Regelungen der Mietpreisbremse h\u00e4lt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-95",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=330.48,337.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wird sich dieser Teil erst recht nicht daran halten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-96",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=337.8,339.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "den Mieter umfassend \u00fcber orts\u00fcbliche Vergleichsmiete und Vormiete aufzukl\u00e4ren."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-97",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=339.4,343.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Beitrag,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-98",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=343.44,344.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sich rechtstreu zu verhalten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-99",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=344.32,346.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist Ihr Vorschlag hier nicht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-100",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=346.76,348.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vor allem kann dann das eintreten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-101",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=348.6,349.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was hier in Berlin als der \u201eKreuzberg-Effekt\u201c bezeichnet wird,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-102",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=349.4,353.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "n\u00e4mlich dass Vermieter \u00fcberhaupt keinen unbefristeten Mietvertrag \u00fcber Wohnraum mehr abschlie\u00dfen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-103",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=353.0,358.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sondern nur noch Wohnraum zum vor\u00fcbergehenden Gebrauch zur Verf\u00fcgung stellen:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-104",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=358.72,362.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "an Partyg\u00e4ste,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-105",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=362.32,364.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Touristen usw."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-106",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=364.84,365.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Kommunale Satzungen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-107",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=365.48,368.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die die Vermietung zum vor\u00fcbergehenden Gebrauch untersagen oder unter Genehmigungsvorbehalt stellen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-108",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=368.72,373.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "greifen schon heute de facto als Regulativ nicht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-109",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=373.32,376.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "weil sich viele Vermieter oder Untervermieter daran nicht halten und das nicht kontrollierbar ist."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-110",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=376.08,382.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Im Ergebnis\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-111",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=382.72,384.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wen wundert das bei den Linken?\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-112",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=384.68,385.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "w\u00fcrde das Vorhaben der Linken den Wohnungsmangel f\u00fcr unbefristete Mietverh\u00e4ltnisse weiter beschleunigen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-113",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=385.44,391.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dann zum Problembereich der Streichung der Ausnahmen von der Mietpreisbremse f\u00fcr umfassend modernisierte Wohnungen und Neubauwohnungen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-114",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=391.68,401.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da stellt sich doch die Frage:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-115",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=401.04,402.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Welchen Anreiz sollen Investoren und Vermieter haben,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-116",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=402.36,407.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Neubau zu schaffen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-117",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=407.56,408.84000000000003",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wenn sie diesen nur zur orts\u00fcblichen Vergleichsmiete vermieten k\u00f6nnen?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-118",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=408.84000000000003,412.58",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Und:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-119",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=412.58,412.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wo nicht neu gebaut wird,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-120",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=412.36,414.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "kann auch nichts vermietet werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-121",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=414.64,416.54",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Eine Verringerung des Anreizes,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-122",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=416.54,417.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Neubau zu schaffen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-123",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=417.44,418.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist also v\u00f6llig kontraproduktiv."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-124",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=418.4,421.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dadurch erh\u00f6ht man das Angebot an Wohnraum nicht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-125",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=421.52,424.74",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Jetzt zum Thema \u201eEinf\u00fchrung der bundesweiten G\u00fcltigkeit der Mietpreisbremse\u201c."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-126",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=424.74,431.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist schon erstaunlich,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-127",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=431.52,433.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wie sich die Linksfraktion \u00fcber verfassungsrechtliche H\u00fcrden hinwegsetzt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-128",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=433.76,436.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke und \u00fcbrigens auch die Union sollten sich einmal dringend mit den Beschl\u00fcssen des Landgerichts Berlin vom 14.\u00a0September 2017 und vom 7.\u00a0Dezember 2017 auseinandersetzen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-129",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=436.36,448.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Aus der Sicht des Landgerichts Berlin"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-130",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=448.28,450.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "verst\u00f6\u00dft die Mietpreisbremse,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-131",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=450.04,452.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und zwar die jetzige,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-132",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=452.64,453.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "gegen Artikel\u00a080 Absatz\u00a01 Satz\u00a02 und Artikel\u00a03 Absatz\u00a01 Grundgesetz."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-133",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=453.04,458.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Begr\u00fcndung des Landgerichts Berlin w\u00fcrde bei einer bundesweiten Einf\u00fchrung einer Mietpreisbremse in einem entscheidenden Punkt genauso gelten:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-134",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=458.36,467.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Vermieter in den unterschiedlichen Regionen sind,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-135",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=467.72,470.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wenn man von der orts\u00fcblichen Vergleichsmiete als Ma\u00dfstab ausgeht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-136",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=470.72,473.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "unterschiedlich stark betroffen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-137",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=473.04,475.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Denn eine typisierende,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-138",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=475.2,477.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "pauschalisierende Belastungsregelung trifft die Vermieter in Kommunen mit einer vergleichsweise niedrigen orts\u00fcblichen Vergleichsmiete erheblich h\u00e4rter als in Kommunen mit einer vergleichsweise hohen orts\u00fcblichen Vergleichsmiete."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-139",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=477.32,489.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es hei\u00dft in dem Beschluss vom 7.\u00a0Dezember:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-140",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=489.04,490.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u201eDiese ungleichen Belastungsfolgen\u201c einer Mietpreisbremse \u201estehen in einem krassen Missverh\u00e4ltnis zu den mit der gesetzlichen Typisierung verbundenen Vorteilen und begr\u00fcnden deshalb zur \u00dcberzeugung der Kammer des Landgerichts Berlin einen verfassungswidrigen Versto\u00df gegen Artikel\u00a03 Absatz\u00a01 Grundgesetz.\u201c Das ist mit ein Grund,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-141",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=490.28,508.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "weshalb wir eigentlich ganz grunds\u00e4tzlich gegen diese Art der Regulierung durch eine Mietpreisbremse sind."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-142",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=508.88,515.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist hierzu noch kein Urteil des Bundesverfassungsgerichts ergangen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-143",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=515.48,520.3",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u2013\u00a0Bitte?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-144",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=520.3,523.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist noch kein Urteil des Bundesverfassungsgerichts ergangen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-145",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=523.68,529.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist ja noch in der Schwebe."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-146",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=529.08,531.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Maier,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-147",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=531.8,534.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ungeachtet der Zwischenrufe:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-148",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=534.84,538.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie m\u00fcssen zum Schluss kommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-149",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=538.84,541.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie haben Ihre Redezeit schon \u00fcberschritten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-150",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=541.0,546.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ja,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-151",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=546.72,547.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "okay.\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-152",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=547.64,548.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Zum Schluss will ich jetzt noch mal Folgendes sagen:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-153",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=548.96,553.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u2013\u00a0Doch,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-154",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=553.52,554.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ich habe ein Konzept."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-155",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=554.52,557.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u2013\u00a0Jetzt lassen Sie mich doch mal ausreden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-156",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=557.76,560.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Kurzfristig bringt vor allem eines die schnelle L\u00f6sung:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-157",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=560.88,565.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die G\u00e4ste von Frau Merkel,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-158",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=565.16,567.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die ausreisepflichtig sind,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-159",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=567.56,568.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "m\u00fcssen dieses Land so schnell wie m\u00f6glich wieder verlassen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-160",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=568.84,573.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Statt die Wohnungsknappheit durch einen Familiennachzug zu verschlimmern,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-161",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=573.04,577.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sollte jetzt angefangen werden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-162",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=577.88,578.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "diejenigen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-163",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=578.44,579.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die nicht hierhergeh\u00f6ren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-164",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=579.92,580.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wieder nach Hause zu schicken."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-165",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=580.92,581.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dadurch k\u00f6nnte man das Angebot von bezahlbarem Wohnraum sehr schnell erh\u00f6hen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-166",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=581.96,584.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Jetzt m\u00fcssen Sie wirklich zum Schluss kommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-167",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=584.28,586.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie haben eineinhalb Minuten \u00fcberzogen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-168",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=586.52,588.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Maier."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-169",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=588.56,588.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ja.\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-170",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=588.72,588.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Einstieg in eine sozialistisch gepr\u00e4gte Wohnraumpolitik\u00a0\u2013\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-171",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=588.12,593.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Maier,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-172",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=593.04,594.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ich habe gesagt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-173",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=594.16,595.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie m\u00fcssen zum Schluss kommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-174",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=595.12,597.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ja.\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-175",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=597.04,598.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Also:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-176",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=598.4,599.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir lehnen es ab,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-177",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=599.36,601.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass auf dem R\u00fccken von Mietern und Vermietern die Einwanderungspolitik von Frau Merkel ausgetragen wird."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-178",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=601.56,614.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Danke."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-179",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=614.36,615.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "N\u00e4chster Redner ist Dr.\u00a0Johannes Fechner f\u00fcr die SPD."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-180",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193603900/canvas#t=615.04,619.76",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

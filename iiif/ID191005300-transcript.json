@@ -1,0 +1,930 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005300-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Pr\u00e4sident!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=1.0,3.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Kolleginnen und Kollegen!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=3.6,4.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Bankenunion ist einer von drei Bausteinen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=4.24,11.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die dem Euro-System mehr Stabilit\u00e4t geben sollen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=11.16,17.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wie wichtig mehr Stabilit\u00e4t ist,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=17.88,20.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "haben die Erfahrungen mit der Euro-Schuldenkrise gezeigt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=20.04,25.1",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Diese ist vom Deutschen Bundestag und mit einem gro\u00dfen Gemeinschaftsgeist in Deutschland erfolgreich bew\u00e4ltigt worden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=25.1,36.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir haben die Einlagen der Sparer gerettet,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=36.04,41.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wir haben die richtigen Regulierungen getroffen und haben in fraktions\u00fcbergreifender Gemeinschaft im Deutschen Bundestag rund um die Uhr Schlimmeres verhindert."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=41.8,50.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist die Tatsache,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=50.96,52.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=52.08,54.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Fazit ist:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-12",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=54.68,55.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Stabilit\u00e4t erreicht man nur,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-13",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=55.56,58.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wenn die Ma\u00dfnahmen richtig und sachbezogen ausgestaltet werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-14",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=58.4,65.5",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dabei steht aus Sicht der Union ein Grundsatz ganz oben:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-15",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=65.5,70.74",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Risiko und Haftung d\u00fcrfen nicht voneinander getrennt werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-16",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=70.74,77.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dieses Prinzip,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-17",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=77.56,78.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dieser Grundsatz muss zum Ma\u00dfstab genommen werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-18",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=78.92,81.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das muss gerade auch f\u00fcr die Bankenunion gelten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-19",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=81.32,84.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vor allem aber m\u00fcssen die Risiken abgebaut werden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-20",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=84.44,88.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "bevor eine Vollendung der Bankenunion tats\u00e4chlich verantwortet werden kann."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-21",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=88.28,96.24000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Risiken,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-22",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=96.24000000000001,97.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-23",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=97.08,99.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "gibt es leider noch zuhauf."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-24",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=99.64,100.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist nat\u00fcrlich auch wahr."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-25",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=100.44,103.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da ist zum einen die anhaltend hohe Verschuldung einer ganzen Reihe von Mitgliedstaaten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-26",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=103.28,109.74000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da gibt es zum anderen faule Kredite in erheblichem Umfang in den Bankenbilanzen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-27",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=109.74000000000001,118.03999999999999",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb darf die europ\u00e4ische Bankenunion kein Transferinstrument werden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-28",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=118.03999999999999,126.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-29",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=126.0,127.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-30",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=127.52,128.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die CDU/CSU plant dies auch nicht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-31",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=128.04,132.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das m\u00f6chte ich noch einmal klar und deutlich hervorheben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-32",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=132.8,135.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist klar:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-33",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=135.28,137.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Der Steuerzahler und die Sparer m\u00fcssen gesch\u00fctzt werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-34",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=137.4,142.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Und Voraussetzung bleibt:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-35",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=142.96,143.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Stabilit\u00e4t erreicht man nicht durch eine blo\u00dfe Vergemeinschaftung von Schulden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-36",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=143.44,151.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb ist klar:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-37",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=151.4,153.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vor der Installierung einer europ\u00e4ischen Bankenunion m\u00fcssen faule Kredite abgebaut werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-38",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=153.88,159.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Hierzu gibt es eine Benchmark:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-39",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=159.32,160.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Anteil der faulen Kredite in den USA 2\u00a0Prozent,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-40",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=160.44,164.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "in Deutschland 2,5\u00a0Prozent."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-41",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=164.88,167.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist etwas schlechter,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-42",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=167.0,168.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "aber es gibt auch L\u00e4nder,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-43",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=168.04,169.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "bei denen der Anteil der faulen Kredite bei 15,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-44",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=169.24,171.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "20 oder gar 50\u00a0Prozent liegt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-45",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=171.88,174.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da muss gehandelt werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-46",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=174.92000000000002,176.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Darauf m\u00fcssen wir hinwirken."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-47",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=176.16,178.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das werden wir auch tun,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-48",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=178.84,180.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "indem wir in der Gemeinschaft daf\u00fcr sorgen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-49",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=180.56,182.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass das Stabilit\u00e4tsbewusstsein st\u00e4rker verankert wird."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-50",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=182.24,188.5",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dazu geh\u00f6rt nat\u00fcrlich auch,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-51",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=188.5,191.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass wir Staatsanleihen risikoad\u00e4quat behandeln;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-52",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=191.12,198.3",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "denn Staatsanleihen sind eben nicht risikofrei."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-53",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=198.3,203.07999999999998",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir mussten immer wieder lernen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-54",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=203.07999999999998,205.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass die Aufk\u00e4ufe angeblich risikofreier Staatsanleihen oder deren Finanzierung schon ein Risiko bedeuten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-55",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=205.44,216.94",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir haben es f\u00fcr den richtigen Weg gehalten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-56",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=216.94,219.1",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Finanzierung von Staatsanleihen in Zukunft mit Eigenkapital zu unterlegen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-57",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=219.1,227.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir haben es hier sicher mit einer komplexen Frage zu tun."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-58",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=227.56,231.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-59",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=231.24,232.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ehrgeizige Zeitpl\u00e4ne sind gut,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-60",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=232.84,234.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "aber Sorgfalt muss nat\u00fcrlich auch hier vor Schnelligkeit gehen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-61",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=234.44,239.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-62",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=239.52,241.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wir m\u00fcssen alles daf\u00fcr tun,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-63",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=241.04,244.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass zun\u00e4chst einmal bei den Banken gehandelt wird."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-64",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=244.0,248.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Eine Eigenkapitalquote von 8\u00a0Prozent der Bilanzsumme als Sicherheit ist sicher ein richtiger Weg,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-65",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=248.72,256.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "um Stabilit\u00e4t in den Banken zu erreichen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-66",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=256.2,259.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "um Vertrauen bei den Finanzmarktkunden zu schaffen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-67",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=259.2,265.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist unabdingbar;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-68",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=265.76,267.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "denn die Eigent\u00fcmer,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-69",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=267.68,268.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Gl\u00e4ubiger und die nationale Einlagensicherung sind vor Ort gefragt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-70",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=268.28,274.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wenn die Banken in irgendeine Schieflage kommen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-71",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=274.04,277.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "nicht eine Vergemeinschaftung."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-72",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=277.28,279.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir sind richtig beraten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-73",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=279.44,283.62",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "eine Bankenunion mit Augenma\u00df mit den gro\u00dfen Aufgaben der Regulierung zu verbinden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-74",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=283.62,292.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir werden darauf achten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-75",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=292.2,294.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass die Sparer,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-76",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=294.6,295.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Finanzmarktkunden in Deutschland nicht in Haftung genommen werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-77",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=295.36,300.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Steuerzahler d\u00fcrfen nicht in Haftung genommen werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-78",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=300.32,304.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist die Voraussetzung f\u00fcr eine Bankenunion auf europ\u00e4ischer Ebene."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-79",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=304.76,308.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herzlichen Dank."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-80",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=308.4,309.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vielen Dank,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-81",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=309.36,310.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Kollege Dr.\u00a0Michelbach.\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-82",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=310.16,313.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Als N\u00e4chstes der Kollege Metin Hakverdi,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-83",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=313.72,316.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "SPD."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-84",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005300/canvas#t=316.04,317.96",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

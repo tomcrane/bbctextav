@@ -1,0 +1,100 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID193102000.json",
+    "items": [
+        {
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID193102000-transcript.json",
+                    "type": "AnnotationPage"
+                }
+            ],
+            "duration": 304.008,
+            "height": 1080,
+            "id": "https://tomcrane.github.io/bbctextav/iiif/ID193102000/canvas",
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID193102000/annopage",
+                    "items": [
+                        {
+                            "body": {
+                                "duration": 304.008,
+                                "format": "video/mp4",
+                                "height": 1080,
+                                "id": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/7227062/7227062_h264_1920_1080_5000kb_baseline_de_5000.mp4",
+                                "type": "Video",
+                                "width": 1920
+                            },
+                            "id": "https://tomcrane.github.io/bbctextav/iiif/ID193102000/content-anno-1",
+                            "motivation": "painting",
+                            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193102000/canvas",
+                            "type": "Annotation"
+                        }
+                    ],
+                    "type": "AnnotationPage"
+                }
+            ],
+            "type": "Canvas",
+            "width": 1920
+        }
+    ],
+    "label": {
+        "de": [
+            "15.05.2018: 31. Sitzung, TOP: 1 Epl 12: Verkehr und digitale Infrastruktur"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "wahlperiode"
+                ]
+            },
+            "value": {
+                "de": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "sitzungsnummer"
+                ]
+            },
+            "value": {
+                "de": [
+                    "31"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "date"
+                ]
+            },
+            "value": {
+                "de": [
+                    "15.05.2018"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "rednerID"
+                ]
+            },
+            "value": {
+                "de": [
+                    "11004849"
+                ]
+            }
+        }
+    ],
+    "type": "Manifest"
+}

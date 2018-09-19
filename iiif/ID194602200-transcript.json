@@ -1,0 +1,864 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID194602200-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Pr\u00e4sident!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=1.0,3.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine sehr geehrten Damen und Herren!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=3.32,5.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Auch von meiner Seite ein Dank an die Hauptberichterstatterin und an alle Berichterstatter f\u00fcr die konstruktive Debatte im Haushaltsausschuss."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=5.84,13.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich glaube,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=13.6,13.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "es ist wert,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=13.0,13.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "einmal zu sagen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=13.4,15.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "welche hervorragenden Verfahren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=15.76,17.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "welche Ernsthaftigkeit in der Debatte und welche Sachlichkeit zwischen dem Parlament und der Regierung in diesem Ausschuss zu erleben sind."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=17.56,24.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist etwas,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=24.48,25.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "worauf wir ausgesprochen stolz sein k\u00f6nnen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=25.4,32.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In diesen Tagen erschien ein Buch \u00fcber die gro\u00dfen rechtswissenschaftlichen Debatten der Berliner Republik,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=32.72,38.1",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "das ich mit herausgegeben habe."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-12",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=38.1,40.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Befund dieses Buches\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-13",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=40.44,42.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "nicht von mir,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-14",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=42.44,43.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sondern von einem anderen Autor\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-15",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=43.16,50.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "war"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-16",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=50.72,51.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "\u2013\u00a0man muss das Buch nicht kaufen\u00a0\u2013,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-17",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=51.08,54.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass die Bedeutung des Justizministeriums als Verfassungsministerium bez\u00fcglich des Ansto\u00dfens rechtswissenschaftlicher Debatten und der Balance zwischen Sicherheit und Freiheit in den letzten Jahren zur\u00fcckgegangen ist,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-18",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=54.44,70.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "insbesondere seit 2013."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-19",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=70.96000000000001,73.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Stichwort ist das Netzwerkdurchsetzungsgesetz."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-20",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=73.0,76.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da sind aber auch Fragen wie die nach der Privatautonomie,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-21",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=76.96000000000001,80.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die in den Vorstellungen der Menschen an Bedeutung verloren hat."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-22",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=80.72,83.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Viele richten an das Haus den Vorwurf,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-23",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=83.68,85.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "es sei unter Heiko Maas zu einem Verbraucherschutzministerium mit angeschlossenem Justiziariat verkommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-24",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=85.12,91.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich glaube,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-25",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=91.88,92.47999999999999",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Teile dieser Kritik sollten wir sehr ernst nehmen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-26",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=92.47999999999999,96.03999999999999",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "weil es in der Geschichte der Bundesrepublik gute Tradition war,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-27",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=96.03999999999999,100.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "gerade die B\u00fcrgerrechte,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-28",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=100.72,101.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Grundrechte und das,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-29",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=101.08,103.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was Einzelne und auch Minderheiten sch\u00fctzt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-30",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=103.64,105.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "in diesem Hause als Anwalt auch gegen\u00fcber dem Innenministerium zu vertreten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-31",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=105.12,110.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Da hat das Bundesjustizministerium in den letzten Jahren zu wenig geleistet."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-32",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=110.6,115.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Aufgaben sind vielf\u00e4ltig."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-33",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=115.16,117.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das Netzwerkdurchsetzungsgesetz ist vielleicht das am schlechtesten gemachte Gesetz der letzten Jahre."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-34",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=117.84,122.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es muss handwerklich dringend \u00fcberarbeitet werden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-35",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=122.12,125.06",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Auch f\u00fcr \u00a7\u00a0219a StGB haben wir noch keine L\u00f6sung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-36",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=125.06,129.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "obwohl wir einen Streit dar\u00fcber hatten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-37",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=129.08,131.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bisher liegt kein Vorschlag vor."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-38",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=131.28,133.46",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir haben eine Vorratsdatenspeicherungsgesetzgebung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-39",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=133.46,137.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die durch ein Obergericht quasi au\u00dfer Kraft gesetzt worden ist."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-40",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=137.48,142.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Es ist der Koalition bisher nicht gelungen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-41",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=142.84,144.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "eine rechtsstaatliche L\u00f6sung zu finden."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-42",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=144.96,146.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Damit ist dieses Gesetz nicht in der Anwendung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-43",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=146.24,148.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "also insgesamt ein Sicherheitsrisiko f\u00fcr dieses Land."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-44",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=148.48,152.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich glaube,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-45",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=152.2,153.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "da m\u00fcssten Sie,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-46",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=153.6,153.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "bevor Ihnen Karlsruhe dazu Entsprechendes sagt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-47",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=153.16,155.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dringend nachbessern."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-48",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=155.48,159.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ein Wort zum Mieterschutz."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-49",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=159.48,162.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bei der Mietpreisbremse wollen Sie weiterhin das,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-50",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=162.8,164.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was nicht gewirkt hat und was kontraproduktiv war,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-51",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=164.0,170.3",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wo man sogar von fachlicher Seite festgestellt hat,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-52",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=170.3,174.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass es zu punktuellen Erh\u00f6hungen von Mieten gef\u00fchrt hat."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-53",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=174.68,177.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vom Schlechten etwas mehr bringt keine guten L\u00f6sungen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-54",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=177.8,181.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich glaube,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-55",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=181.64,181.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "auch in diesem Bereich m\u00fcssten Sie zu der Erkenntnis kommen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-56",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=181.04,184.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass Wohnraum nur dadurch geschaffen wird und niedrige Mieten nur dadurch erreicht werden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-57",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=184.6,189.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass man neuen Wohnraum schafft,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-58",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=189.76,191.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "etwa durch einen Freibetrag bei der Grunderwerbsteuer."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-59",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=191.56,198.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir verbinden mit Blick auf Bundesministerin Barley die Hoffnung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-60",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=198.96,203.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass sie f\u00fcr B\u00fcrgerrechte,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-61",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=203.48,204.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "f\u00fcr Minderheitenrechte,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-62",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=204.48,206.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "f\u00fcr Meinungsfreiheit und eine offene Gesellschaft mehr Herz als ihr Amtsvorg\u00e4nger hat."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-63",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=206.2,214.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir sehen in diesem Haushalt eine hohe Deckungsquote."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-64",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=214.72,216.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich habe das einmal ausgerechnet:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-65",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=216.0,219.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Der Rechtsstaat in Form des Bundesjustizministeriums kostet uns weniger als 3\u00a0Euro pro B\u00fcrger;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-66",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=219.64,224.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "das kann man auch mal sagen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-67",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=224.44,226.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist ein Haushalt mit einer hohen Deckungsquote durch die Einnahmen aus dem Patent-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-68",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=226.72,229.07999999999998",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Markenamt;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-69",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=229.07999999999998,230.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "insgesamt also eine wertvolle und wichtige Einrichtung."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-70",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=230.04,234.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir hoffen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-71",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=234.8,234.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass das Ministerium b\u00fcrgerrechtlich aktiver wird."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-72",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=234.24,236.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir stimmen deshalb heute\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-73",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=236.16,238.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "auch da sind wir konstruktive Opposition\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-74",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=238.92000000000002,241.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "diesem Haushalt sogar zu."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-75",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=241.52,243.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vielen Dank."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-76",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=243.6,244.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vielen Dank.\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-77",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=244.88,246.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "N\u00e4chster Redner ist Markus Uhl f\u00fcr die Fraktion der CDU/CSU."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-78",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194602200/canvas#t=246.8,257.0",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

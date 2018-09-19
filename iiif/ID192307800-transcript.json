@@ -1,0 +1,930 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID192307800-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Pr\u00e4sident!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=1.0,9.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Werte Kollegen!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=9.08,11.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Frau Ministerin!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=11.8,12.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herzlichen Dank f\u00fcr Ihre blumenreichen Absichtserkl\u00e4rungen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=12.36,17.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "gute Bildung sowie Forschung und Lehre zu st\u00e4rken."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=17.24,21.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Letztere f\u00fcllen im Koalitionsvertrag immerhin beinahe drei Seiten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=21.12,26.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Als beruflich ausgewiesene Expertin kann ich Ihnen versichern:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=26.44,30.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie haben alle derzeit modernen inhaltsleeren Phrasen genannt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=30.04,35.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Selbst der geneigteste B\u00fcrger kommt so langsam an den Punkt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=35.48,42.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "an dem er mehr sehen m\u00f6chte als Absichtserkl\u00e4rungen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=42.96,46.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Pakte und Initiativen;"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=46.72,48.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "denn gleichzeitig sinkt wahrnehmbar f\u00fcr alle das Bildungsniveau."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-12",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=48.04,53.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Man ist quasi versucht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-13",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=53.96,54.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "zu rufen:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-14",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=54.2,55.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herrgott noch mal!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-15",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=55.72,57.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie sind seit Jahren an der Regierung."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-16",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=57.72,60.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Machen Sie doch mal!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-17",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=60.64,62.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Frau Merkel,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-18",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=62.68,62.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bologna ist in Ihrer Regierungszeit bereits zweimal mit lautem Presseget\u00f6se gescheitert."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-19",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=62.4,71.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Was unternehmen Sie?\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-20",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=71.52,72.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Mehr Niveaulimbo,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-21",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=72.0,74.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "mehr Kontrolle,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-22",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=74.96000000000001,75.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "mehr Gleichschaltung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-23",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=75.48,77.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vereinheitlichung und weniger Freiheit,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-24",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=77.76,79.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "mehr Ideologie."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-25",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=79.24,81.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich nenne Ihnen dazu einmal eine Hausnummer:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-26",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=81.96000000000001,83.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir geben laut dem \u201eBericht der Bundesregierung zur internationalen Kooperation in Bildung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-27",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=83.0,87.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wissenschaft und Forschung 2014\u20132016\u201c etwa 92\u00a0Millionen Euro f\u00fcr den Bereich Klima,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-28",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=87.16,95.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Umwelt und Nachhaltigkeit aus."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-29",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=95.44,98.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Auf dem letzten F\u00f6rderplatz finden sich Innovationen in der Bildung mit etwa 519\u00a0000\u00a0Euro."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-30",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=98.64,106.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-31",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=106.44,107.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-32",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=107.08,108.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist wahrlich eine Schande."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-33",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=108.4,113.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Platz neun in der BMBF-Haushaltsplansystematik nehmen mit immerhin etwa 23\u00a0Millionen Euro die Geisteswissenschaften,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-34",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=113.12,120.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wirtschafts-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-35",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=120.68,122.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Sozialwissenschaften ein."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-36",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=122.44,125.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "In Ihrem Koalitionsvertrag spezifizieren Sie dankenswerterweise,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-37",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=125.16,130.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was wir darunter verstehen d\u00fcrfen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-38",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=130.08,132.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "n\u00e4mlich unter anderem Gender-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-39",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=132.24,135.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Ged\u00f6nswissenschaften."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-40",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=135.8,136.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir d\u00fcrfen also gespannt sein,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-41",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=136.24,140.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was das wieder ist."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-42",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=140.84,141.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Hat uns die pseudowissenschaftliche Genderforschung doch schon das sogenannte dritte Geschlecht beschert,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-43",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=141.96,147.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "welches so nat\u00fcrlich und wissenschaftlich belegbar ist,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-44",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=147.24,150.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wie \u201eDes Kaisers neue Kleider\u201c von Hans Christian Andersen ein Tatsachenbericht ist."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-45",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=150.36,161.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bedenken Sie:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-46",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=161.4,162.07999999999998",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die politische Festlegung von alternativloser Wahrheit beraubt Wissenschaft und Forschung ihrer Freiheit."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-47",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=162.07999999999998,170.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wissenschaft und Forschung werden unter der Knute des diktatorischen gesamtgesellschaftlichen Konsenses zum Handlanger von Politik und \u00fcbernehmen nunmehr dienende Funktion."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-48",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=170.44,184.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir warnen ausdr\u00fccklich vor der zunehmenden \u00d6konomisierung von Forschung und Wissenschaft,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-49",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=184.92,189.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "da diese Forschung f\u00fcr den Steuerzahler partiell g\u00fcnstiger werden l\u00e4sst,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-50",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=189.4,195.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "aber damit unweigerlich ein R\u00fcckbau von Freiheiten einhergeht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-51",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=195.52,199.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wir von der AfD f\u00fchlen uns dem Humboldt\u2019schen Freiheits-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-52",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=199.12,204.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Bildungsideal verpflichtet."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-53",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=204.68,205.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Freiheit von Forschung und Lehre ist unabdingbare Grundvoraussetzung f\u00fcr wissenschaftlichen Fortschritt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-54",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=205.48,214.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-55",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=214.6,216.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb m\u00fcssen die Hochschulen \u00fcber Art und Umfang ihres Studienangebots frei entscheiden k\u00f6nnen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-56",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=216.64,225.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das Ethos der Wissenschaft,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-57",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=225.52,226.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "zu dem die Kritikf\u00e4higkeit,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-58",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=226.92000000000002,227.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die Unvoreingenommenheit und der Respekt vor anderen Wissenschaftlern und ihren Leistungen geh\u00f6rt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-59",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=227.44,233.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ist zu st\u00e4rken."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-60",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=233.44,235.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-61",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=235.64,236.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie betonen pausenlos,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-62",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=236.56,237.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass es uns so gut geht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-63",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=237.2,239.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie investieren endlich wahrnehmbar\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-64",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=239.88,241.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "aber nicht genug\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-65",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=241.36,242.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "in unsere Universit\u00e4ten und Hochschulen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-66",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=242.24,245.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bitte geben Sie diesen gleichzeitig Freiheit,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-67",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=245.08,250.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Qualit\u00e4t,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-68",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=250.72,251.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Exzellenz,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-69",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=251.52,252.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wettbewerbsf\u00e4higkeit und ein St\u00fcck nationales Selbstbewusstsein zur\u00fcck!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-70",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=252.68,256.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ersparen Sie uns bitte Bachelor in totaler Toleranz,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-71",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=256.16,261.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Master im Kampf gegen rechts und Doktoren in Migrationsapologetik!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-72",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=261.8,266.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie haben in dieser Legislaturperiode die Chance,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-73",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=266.76,270.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die \u00c4ra des Post-Nationalmasochismus einzuleiten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-74",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=270.2,275.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Bitte befreien Sie das Land der Dichter und Denker,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-75",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=275.44,279.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "der Ingenieure und Nobelpreistr\u00e4ger vom Mehltau des politisch korrekten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-76",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=279.36,286.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "alles beherrschenden Zeitgeists,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-77",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=286.6,288.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und l\u00f6sen Sie endlich wieder die Fesseln von Bildung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-78",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=288.88,292.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Forschung,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-79",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=292.52,292.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Wissenschaft und Innovation!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-80",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=292.08,294.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Vielen Dank."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-81",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=294.6,295.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Jetzt erteile ich das Wort der Kollegin Marja-Liisa V\u00f6llers,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-82",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=295.64,309.04",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "SPD,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-83",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=309.04,309.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "zu ihrer ersten Rede im Deutschen Bundestag."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-84",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID192307800/canvas#t=309.48,311.96",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

@@ -1,0 +1,127 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID191708100-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich habe eine ganz kurze Frage oder Anmerkung:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=1.0,5.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Hat all das,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=5.68,5.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "was Sie beschrieben haben,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=5.44,9.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Frau Jelpke\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=9.92,10.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Verfolgung von Homosexuellen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=10.24,12.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Unterdr\u00fcckung von Frauen usw.\u00a0\u2013,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=12.8,15.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ihrer Meinung nach irgendetwas mit dem Islam zu tun?"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=15.52,21.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "M\u00f6chten Sie darauf antworten?\u00a0\u2013"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=21.44,24.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Offensichtlich nicht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=24.16,25.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Dann fahren wir in der Debatte fort."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=25.2,28.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das Wort hat die Abgeordnete Luise Amtsberg f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191708100/canvas#t=28.64,34.0",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

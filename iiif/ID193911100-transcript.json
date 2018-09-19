@@ -1,0 +1,886 @@
+{
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID193911100-transcript.json",
+    "items": [
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Pr\u00e4sident!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-1",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=1.0,4.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Damen und Herren!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-2",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=4.76,5.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke steht seit Jahren an der Seite der Russlanddeutschen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-3",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=5.68,8.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Fraktionskollegin,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-4",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=8.96,10.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "unsere Bundestagsvizepr\u00e4sidentin Petra Pau,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-5",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=10.52,13.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "unterst\u00fctzt die Aussiedlerinnen und Aussiedler aus der Sowjetunion und den GUS-Staaten mit besonders viel Engagement."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-6",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=13.36,21.0",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Danke daf\u00fcr!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-7",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=21.0,22.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deswegen haben wir Linken bereits im Mai\u00a02017 auf Petra Paus Initiative hin ein Gespr\u00e4ch mit einer Delegation der Landsmannschaft der Deutschen aus Russland gef\u00fchrt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-8",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=22.44,33.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "an dem neben dem damaligen Sprecher der Landsmannschaft,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-9",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=33.48,36.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Waldemar Eisenbraun,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-10",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=36.4,38.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "auch unser Fraktionsvorsitzender Dr.\u00a0Dietmar Bartsch,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-11",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=38.68,41.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Kollegen Andrej Hunko,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-12",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=41.68,43.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sigrid Hupach und ich selbst teilgenommen haben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-13",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=43.84,45.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das Ergebnis:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-14",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=45.12,46.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Linke setzt sich f\u00fcr h\u00f6here Renten f\u00fcr Aussiedler und Aussiedlerinnen ein."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-15",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=46.36,52.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Hier unsere kleine Anfrage vom Mai\u00a02017 und unsere Interviews aus der \u201eRusskaja Germanija\u201c."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-16",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=52.6,62.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-17",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=62.64,63.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Altersrenten erhalten diejenigen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-18",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=63.4,66.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die in die Rentenkasse eingezahlt haben,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-19",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=66.72,68.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "unabh\u00e4ngig von ihrer Staatsangeh\u00f6rigkeit."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-20",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=68.36,71.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Von diesem Prinzip wurde vor 1989 bei zwei Gruppen von Migrantinnen und Migranten,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-21",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=71.16,77.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Kollege Kapschack,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-22",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=77.52,78.56",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "aus guten Gr\u00fcnden abgewichen:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-23",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=78.56,80.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "erstens bei Menschen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-24",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=80.64,81.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "die vor 1989 aus der DDR in den Westen gefl\u00fcchtet oder \u00fcbergesiedelt sind,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-25",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=81.96000000000001,87.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und zweitens bei Aussiedlerinnen und Sp\u00e4taussiedlern aus den L\u00e4ndern der Sowjetunion und den GUS-Staaten."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-26",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=87.64,93.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Viele dieser Menschen wurden in ihren Herkunftsl\u00e4ndern schlecht behandelt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-27",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=93.32,98.92",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Deshalb wurde beiden Gruppen als Ausgleich versprochen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-28",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=98.92,102.96000000000001",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass sie mit ihrer \u00dcbersiedlung in die Bundesrepublik exakt so behandelt werden w\u00fcrden,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-29",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=102.96000000000001,108.75999999999999",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "als h\u00e4tten sie ihr bisheriges Arbeitsleben nicht in der DDR oder in der Sowjetunion,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-30",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=108.75999999999999,114.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "sondern in Westdeutschland verbracht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-31",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=114.72,116.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Damit wurde ihr Rentenniveau vom Herkunftsland auf das h\u00f6here westdeutsche Niveau angehoben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-32",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=116.08,123.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Beide Versprechen aber,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-33",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=123.72,124.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-34",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=124.44,126.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wurden von Union,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-35",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=126.76,127.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "FDP und SPD nach 1989 gebrochen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-36",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=127.12,130.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und das ist schlecht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-37",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=130.2,131.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Seit 1993 werden aus der DDR Gefl\u00fcchtete nicht mehr so behandelt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-38",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=131.44,138.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "als h\u00e4tten sie in Westdeutschland gearbeitet,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-39",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=138.52,140.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und sie wurden gegen ihren Willen zu DDR-B\u00fcrgern mit entsprechenden Renteneinbu\u00dfen gemacht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-40",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=140.6,145.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Mit dem schwarz-gelben Wachstums-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-41",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=145.96,147.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Besch\u00e4ftigungsf\u00f6rderungsgesetz von 1996 wurden die Renten von Aussiedlerinnen und Aussiedlern aus den Staaten Mittel-"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-42",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=147.32,154.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und Osteuropas so weit gek\u00fcrzt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-43",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=154.28,157.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dass ihr Lebensunterhalt im Alter nicht mehr gesichert ist."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-44",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=157.52,160.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Mit diesem Gesetz,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-45",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=160.96,161.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "meine Damen und Herren,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-46",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=161.96,162.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "wurden die versprochenen Rentenanspr\u00fcche von Aussiedlern erst um 30 und dann sogar um 40\u00a0Prozent gek\u00fcrzt."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-47",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=162.12,170.48",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist unglaublich und in dieser Form ungerecht."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-48",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=170.48,174.8",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Obendrein wurden ihre Anspr\u00fcche nach dem Fremdrentengesetz auch noch auf h\u00f6chstens 25\u00a0Entgeltpunkte begrenzt,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-49",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=174.8,181.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "also auf 800\u00a0Euro brutto."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-50",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=181.12,185.84",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "F\u00fcr Ehepaare gibt es h\u00f6chstens 40\u00a0Entgeltpunkte,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-51",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=185.84,188.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "das sind h\u00f6chstens 1\u00a0281\u00a0Euro brutto."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-52",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=188.6,191.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Viele Aussiedler haben keine weiteren Alterseinkommen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-53",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=191.36,195.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist Altersarmut per Gesetz,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-54",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=195.6,197.76",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und das darf so nicht bleiben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-55",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=197.76,200.92000000000002",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die Ergebnisse unserer Kleinen Anfrage sind erschreckend:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-56",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=200.92000000000002,204.68",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Die 402\u00a0000 von der K\u00fcrzung der sogenannten Fremdrente betroffenen Russlanddeutschen erhielten im Jahr\u00a02015 durchschnittlich gerade einmal eine Nettorente von 668\u00a0Euro."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-57",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=204.68,216.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie liegen damit knapp 365\u00a0Euro unter der offiziellen EU-Armutsschwelle und mehr als 135\u00a0Euro unter der durchschnittlichen Grundsicherung im Alter,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-58",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=216.64,226.16",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dem Rentner-Hartz IV."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-59",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=226.16,227.44",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Das ist falsch,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-60",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=227.44,228.07999999999998",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "das ist schlecht,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-61",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=228.07999999999998,229.88",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "und das darf nicht so bleiben."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-62",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=229.88,230.36",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Genau deshalb fordere ich von Ihnen,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-63",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=230.36,233.72",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "liebe Koalition:"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-64",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=233.72,234.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Machen Sie erstens diese K\u00fcrzungen r\u00fcckg\u00e4ngig!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-65",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=234.6,237.6",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Schlie\u00dfen Sie zweitens endlich ein Sozialversicherungsabkommen mit Russland ab,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-66",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=237.6,241.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "dann w\u00fcrde die wechselseitige Zahlung von Renten und die Anerkennung rentenrechtlicher Zeiten endlich auf eine solide Grundlage gestellt!"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-67",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=241.96,249.96",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Und drittens fordert Die Linke als einzige im Bundestag vertretene Partei eine Solidarische Mindestrente in H\u00f6he von 1\u00a0050\u00a0Euro netto."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-68",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=249.96,258.52",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Kollege,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-69",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=258.52,258.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ihr letzter Satz."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-70",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=258.08,259.24",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Niemand soll im Alter in Armut leben m\u00fcssen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-71",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=259.24,262.2",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Herr Pr\u00e4sident,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-72",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=262.2,263.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "ich komme zum Schluss."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-73",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=263.64,264.1",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "So ist es."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-74",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=264.1,266.32",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich habe Ihnen jetzt das Mikrofon abgeschaltet."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-75",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=266.32,268.08",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich bitte Sie,"
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-76",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=268.08,268.28",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "jetzt das Rednerpult zu verlassen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-77",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=268.28,269.4",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Ich wollte diesen einen Satz aber auch noch sagen."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-78",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=269.4,271.12",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Sie waren schon bei dem einen Satz."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-79",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=271.12,273.64",
+            "type": "Annotation"
+        },
+        {
+            "body": {
+                "language": "de",
+                "type": "TextualBody",
+                "value": "Als N\u00e4chstes f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen der Kollege Markus Kurth."
+            },
+            "id": "https://tomcrane.github.io/bbctextav/iiif/text-80",
+            "motivation": "supplementing",
+            "target": "https://tomcrane.github.io/bbctextav/iiif/ID193911100/canvas#t=273.64,280.96",
+            "type": "Annotation"
+        }
+    ],
+    "type": "AnnotationPage"
+}

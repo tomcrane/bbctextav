@@ -1,0 +1,100 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005000.json",
+    "items": [
+        {
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005000-transcript.json",
+                    "type": "AnnotationPage"
+                }
+            ],
+            "duration": 322.992,
+            "height": 1080,
+            "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005000/canvas",
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005000/annopage",
+                    "items": [
+                        {
+                            "body": {
+                                "duration": 322.992,
+                                "format": "video/mp4",
+                                "height": 1080,
+                                "id": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/7197607/7197607_h264_1920_1080_5000kb_baseline_de_5000.mp4",
+                                "type": "Video",
+                                "width": 1920
+                            },
+                            "id": "https://tomcrane.github.io/bbctextav/iiif/ID191005000/content-anno-1",
+                            "motivation": "painting",
+                            "target": "https://tomcrane.github.io/bbctextav/iiif/ID191005000/canvas",
+                            "type": "Annotation"
+                        }
+                    ],
+                    "type": "AnnotationPage"
+                }
+            ],
+            "type": "Canvas",
+            "width": 1920
+        }
+    ],
+    "label": {
+        "de": [
+            "31.01.2018: Aktuelle Stunde zu einer europ\u00e4ischen Bankenunion"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "wahlperiode"
+                ]
+            },
+            "value": {
+                "de": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "sitzungsnummer"
+                ]
+            },
+            "value": {
+                "de": [
+                    "10"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "date"
+                ]
+            },
+            "value": {
+                "de": [
+                    "31.01.2018"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "rednerID"
+                ]
+            },
+            "value": {
+                "de": [
+                    "11004932"
+                ]
+            }
+        }
+    ],
+    "type": "Manifest"
+}

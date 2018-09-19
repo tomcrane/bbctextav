@@ -8,16 +8,33 @@ import settings
 
 def main():
     index = load_resource(settings.INDEX_MEDIA + "index_media.json")
-    speech = index["ID191002001"]
-    make_manifest(speech)
-    make_annotations(speech)
+    collection = deepcopy(settings.COLLECTION)
+
+    for speech in index.values():
+        try:
+            manifest = make_manifest(speech)
+            make_annotations(speech)
+            collection["items"].append(make_coll_manifest(manifest))
+            print("...adding " + speech["id"])
+        except Exception:
+            print("Couldn't make " + speech["id"])
+
+    collection["id"] = get_uri(None, settings.COLLECTION_ID_TEMPLATE)
+    save_resource(collection, "../iiif/collection.json")    
+
+
+def make_coll_manifest(manifest):
+    coll_manifest = deepcopy(settings.COLL_MANIFEST)
+    coll_manifest["id"] = manifest["id"]    
+    coll_manifest["label"] = manifest["label"]
+    return coll_manifest
 
 
 def make_manifest(speech):
     manifest = deepcopy(settings.MANIFEST)
     identifier = speech["id"]
     manifest["id"] = get_uri(identifier, settings.MANIFEST_ID_TEMPLATE)
-    manifest["label"] = lang_de(speech["headline"])
+    manifest["label"] = lang_de(speech["date"] + ": " + speech["headline"])
     add_metadata(manifest, "wahlperiode", speech)
     add_metadata(manifest, "sitzungsnummer", speech)
     add_metadata(manifest, "date", speech)
@@ -36,6 +53,7 @@ def make_manifest(speech):
 
     manifest_path = os.path.join("../iiif", identifier + ".json")
     save_resource(manifest, manifest_path)
+    return manifest
 
 
 def get_uri(identifier, template):

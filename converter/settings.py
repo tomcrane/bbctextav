@@ -2,6 +2,7 @@ from collections import OrderedDict
 
 INDEX_MEDIA = "../../bbctextav-de/output/"
 DOMAIN = "https://tomcrane.github.io/bbctextav/"
+COLLECTION_ID_TEMPLATE = "iiif/collection.json"
 MANIFEST_ID_TEMPLATE = "iiif/{0}.json"
 TRANSCRIPT_ID_TEMPLATE = "iiif/{0}-transcript.json"
 CANVAS_URI_TEMPLATE = "iiif/{0}/canvas"
@@ -81,4 +82,23 @@ TRANSCRIPT_ANNO = OrderedDict({
         "value": None
     },
     "target": None
+})
+
+
+COLLECTION = OrderedDict({
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": None,
+  "type": "Collection",
+  "label": { "en": [ "BBCTextAV Demo"]},
+  "items": [
+  ]
+})
+
+COLL_MANIFEST = OrderedDict({
+    "id": None,
+    "type": "Manifest",
+    "label": None
 })

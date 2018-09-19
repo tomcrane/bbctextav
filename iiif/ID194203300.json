@@ -1,0 +1,100 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID194203300.json",
+    "items": [
+        {
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID194203300-transcript.json",
+                    "type": "AnnotationPage"
+                }
+            ],
+            "duration": 214.008,
+            "height": 1080,
+            "id": "https://tomcrane.github.io/bbctextav/iiif/ID194203300/canvas",
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID194203300/annopage",
+                    "items": [
+                        {
+                            "body": {
+                                "duration": 214.008,
+                                "format": "video/mp4",
+                                "height": 1080,
+                                "id": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/7249224/7249224_h264_1920_1080_5000kb_baseline_de_5000.mp4",
+                                "type": "Video",
+                                "width": 1920
+                            },
+                            "id": "https://tomcrane.github.io/bbctextav/iiif/ID194203300/content-anno-1",
+                            "motivation": "painting",
+                            "target": "https://tomcrane.github.io/bbctextav/iiif/ID194203300/canvas",
+                            "type": "Annotation"
+                        }
+                    ],
+                    "type": "AnnotationPage"
+                }
+            ],
+            "type": "Canvas",
+            "width": 1920
+        }
+    ],
+    "label": {
+        "de": [
+            "28.06.2018: Enquete-Kommission K\u00fcnstliche Intelligenz"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "wahlperiode"
+                ]
+            },
+            "value": {
+                "de": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "sitzungsnummer"
+                ]
+            },
+            "value": {
+                "de": [
+                    "42"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "date"
+                ]
+            },
+            "value": {
+                "de": [
+                    "28.06.2018"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "rednerID"
+                ]
+            },
+            "value": {
+                "de": [
+                    "11004694"
+                ]
+            }
+        }
+    ],
+    "type": "Manifest"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://tomcrane.github.io/bbctextav/iiif/ID19702600.json",
+    "items": [
+        {
+            "annotations": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID19702600-transcript.json",
+                    "type": "AnnotationPage"
+                }
+            ],
+            "duration": 265.992,
+            "height": 1080,
+            "id": "https://tomcrane.github.io/bbctextav/iiif/ID19702600/canvas",
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/bbctextav/iiif/ID19702600/annopage",
+                    "items": [
+                        {
+                            "body": {
+                                "duration": 265.992,
+                                "format": "video/mp4",
+                                "height": 1080,
+                                "id": "https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/7192658/7192658_h264_1920_1080_5000kb_baseline_de_5000.mp4",
+                                "type": "Video",
+                                "width": 1920
+                            },
+                            "id": "https://tomcrane.github.io/bbctextav/iiif/ID19702600/content-anno-1",
+                            "motivation": "painting",
+                            "target": "https://tomcrane.github.io/bbctextav/iiif/ID19702600/canvas",
+                            "type": "Annotation"
+                        }
+                    ],
+                    "type": "AnnotationPage"
+                }
+            ],
+            "type": "Canvas",
+            "width": 1920
+        }
+    ],
+    "label": {
+        "de": [
+            "18.01.2018: Gesetz zur \u00c4nderung des Aufenthaltsgesetzes"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "wahlperiode"
+                ]
+            },
+            "value": {
+                "de": [
+                    "19"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "sitzungsnummer"
+                ]
+            },
+            "value": {
+                "de": [
+                    "7"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "date"
+                ]
+            },
+            "value": {
+                "de": [
+                    "18.01.2018"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "rednerID"
+                ]
+            },
+            "value": {
+                "de": [
+                    "11004257"
+                ]
+            }
+        }
+    ],
+    "type": "Manifest"
+}
